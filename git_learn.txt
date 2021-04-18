@@ -1,2 +1,4 @@
 study git 
 202104018
+
+The second time you add data, look at the Git log
